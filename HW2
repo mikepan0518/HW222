@@ -14,6 +14,8 @@ public class StringMethods
         System.out.println("The length of \""+word +"\" is " + word.length());
         System.out.println("ALL UPPER CASE: " + word.toUpperCase());
         System.out.println("all lower case: " + word.toLowerCase());
+        System.out.println(String.replace(" ", ""));
+        
       
         
  
