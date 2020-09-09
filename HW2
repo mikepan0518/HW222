@@ -1,1 +1,21 @@
-String laoWang = zhu
+/**
+ * Use some string methods.
+ * 
+ * @author Yuzhou Pan
+ * @version 2020-09-01
+ */
+public class StringMethods
+{
+    public static void main(String[] args)
+    {
+        String word =  "riGhtS"; 
+        // Do not change the line above
+        
+        System.out.println("The length of \""+word +"\" is " + word.length());
+        System.out.println("ALL UPPER CASE: " + word.toUpperCase());
+        System.out.println("all lower case: " + word.toLowerCase());
+      
+        
+ 
+    }
+}
